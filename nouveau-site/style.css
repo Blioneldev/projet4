@@ -737,7 +737,7 @@ h4 {
 }
 
 .white {
-    color: black;
+    color: white;
 }
 
 .portfolio-thumb {
@@ -790,7 +790,7 @@ h4 {
 }
 
 .ltc-white {
-    color: black!important;
+    color: white!important;
 }
 
 .ltc-white:hover {
@@ -823,7 +823,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
